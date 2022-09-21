@@ -54,10 +54,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Rode o `npm run dev` para iniciar a aplicação na porta <b>3000</b>
 - Por fim, o <b>Website</b> estará disponível em `http://localhost:3000`
 >Mobile
+#### ***Obs: tenha o expo [instalado](https://docs.expo.dev/) na sua maquina**
 - Rode `cd MOBILE` para ir até a pasta mobile
-- Rode `axios install` para instalar as dependências
-- Rode o `axios start` para iniciar a aplicação na porta <b>19000</b>
-- Por fim, o <b>Bundler do APP</b> estará disponível em `http://localhost:19000`
+- Rode `expo install` para instalar as dependências
+- Rode o `expo start` para iniciar a aplicação
+- Por fim, o <b>Bundler do APP</b> estará disponível
 
 
 ## 📄 Licença
